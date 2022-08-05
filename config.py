@@ -5,5 +5,5 @@ tg_chat_id_personal="" #output
 api_key=""
 api_key_secret=""
 dollarquantity=1000
-tp_modifier = 1 #in decimalen
+tp_modifier = 1 #in decimals
 path_to_bot=""
